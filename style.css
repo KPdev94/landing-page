@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    padding: 0;
 }
 
 header, footer, .intro {
@@ -170,5 +171,4 @@ footer {
     color: white;
     margin: 0;
     width: 100%;
-    padding: 8px;
 }
